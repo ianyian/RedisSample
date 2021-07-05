@@ -1050,11 +1050,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\snixjyian\\Documents\\GitHub\\RedisSample\\Redistest.csproj",
+      "projectUniqueName": "C:\\GitRepos\\github\\RedisSample\\Redistest.csproj",
       "projectName": "Redistest",
-      "projectPath": "C:\\Users\\snixjyian\\Documents\\GitHub\\RedisSample\\Redistest.csproj",
+      "projectPath": "C:\\GitRepos\\github\\RedisSample\\Redistest.csproj",
       "packagesPath": "C:\\Users\\snixjyian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\snixjyian\\Documents\\GitHub\\RedisSample\\obj\\",
+      "outputPath": "C:\\GitRepos\\github\\RedisSample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\snixjyian\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1110,7 +1110,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

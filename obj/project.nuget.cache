@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pifEAodaTygnCrTtvLHVxIYVlLaZQKiibXV3HedLN5s7pddxcgn8aN73sgrx3ZooO63GrT93rPRRbuVHyJCdCA==",
+  "dgSpecHash": "kAI5tkG3FLYXvjDo2Gy/MSee2XKxxUyl2vqcxVdHn6EB+N7rjP9JlHoEgUUIbczxwy1+q0n/kfhNCZsgfxYQPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\snixjyian\\Documents\\GitHub\\RedisSample\\Redistest.csproj",
+  "projectFilePath": "C:\\GitRepos\\github\\RedisSample\\Redistest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\snixjyian\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\snixjyian\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

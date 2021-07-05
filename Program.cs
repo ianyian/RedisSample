@@ -24,7 +24,7 @@ namespace Redistest
         public void ReadData()
         {
             var cache = RedisConnectorHelper.Connection.GetDatabase();
-            var devicesCount = 10000;
+            var devicesCount = 100;
             for (int i = 0; i < devicesCount; i++)
             {
                 var value = cache.StringGet($"Device_Status:{i}");
@@ -34,13 +34,13 @@ namespace Redistest
 
         public void SaveBigData()
         {
-            var devicesCount = 10000;
+            var devicesCount = 100;
             var rnd = new Random();
             var cache = RedisConnectorHelper.Connection.GetDatabase();
 
             for (int i = 1; i < devicesCount; i++)
             {
-                var value = rnd.Next(0, 10000);
+                var value = rnd.Next(0, 100);
                 cache.StringSet($"Device_Status:{i}", value);
             }
         }
